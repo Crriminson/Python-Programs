@@ -9,6 +9,6 @@ class Student:
     
 student = Student("Who Asked", "69")    
 
-print("College Name:", Student.college_name)
+print("College Name:", student.college_name)
 print("Name:", student.name)
 print("Roll No:", student.roll_no)
